@@ -1,0 +1,24 @@
+# Personal data / CV files
+data/base_cv.json
+data/vacancies_live.csv
+data/vacancy_matches*.json
+data/*.db
+data/*.sqlite
+
+# Generated output (CVs, PDFs, HTML)
+applications/
+applications_ai_optimized/
+*.html
+*.pdf
+*.txt
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
