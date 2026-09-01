@@ -1,0 +1,90 @@
+{
+  "contact": {
+    "name": "Januss Barila",
+    "title": "Business & Data Analyst | Process & Operations Improvement",
+    "location": "Riga, Latvia",
+    "phone": "+371 25 512 631",
+    "email": "yanushbarila@inbox.lv",
+    "linkedin": "linkedin.com/in/yanush-barila"
+  },
+  "summary": "Business and data analytics professional with 6+ years of experience across management reporting, process improvement, financial and workforce analysis, supply chain, forecasting and systems delivery. Skilled at turning fragmented operational data and business questions into reliable KPIs, dashboards, forecasts and practical recommendations. Hands-on experience with Power BI, DAX, Power Query, SQL, Python, advanced Excel and enterprise systems including HORIZON, IFS ERP and SAP. Comfortable working between business, Finance, HR, IT, Sales and Operations teams in Baltic and international environments.",
+  "core_expertise": [
+    "Data and BI analytics - data preparation, modelling, DAX measures, interactive Power BI dashboards, automated reporting, reconciliation and data-quality controls.",
+    "Business and process analysis - requirements gathering, KPI definitions, as-is/to-be analysis, root-cause investigation, acceptance criteria, UAT, implementation follow-up and documentation.",
+    "Performance and controlling - budget-versus-actual analysis, costs, workforce metrics, sales, demand, inventory, service levels, trends, deviations and forecasting.",
+    "Systems and delivery - ERP/EDI migration and integration support, data mapping, master-data validation, transaction testing, issue resolution and stakeholder adoption."
+  ],
+  "experience": [
+    {
+      "company": "AS CleanR Grupa",
+      "period": "Apr 2025 - Present",
+      "title": "Business Data Analyst | HR and Financial Reporting",
+      "keywords": ["Power BI", "workforce analytics", "budgeting", "controls", "process improvement", "DAX", "HR reporting", "financial reporting"],
+      "achievements": [
+        "Developed Power BI dashboards and automated reports supporting workforce planning, personnel-cost monitoring, budget performance and management decision-making.",
+        "Combined and validated data from HORIZON, MEMO, Excel and internal sources; reconciled periods, filters, totals and duplicates and investigated discrepancies with HR, Finance and IT.",
+        "Created DAX measures, KPI calculations and structured data models for headcount, turnover, sick leave, salary ranges, personnel costs and operational trends.",
+        "Supported budget reconciliation for approximately 300 administrative employees and prepared validated workforce indicators for sustainability and management reporting.",
+        "Translated stakeholder needs into reporting logic, controls and practical analytical solutions; documented definitions and validation procedures and supported quality initiatives as a Certified Internal ISO Auditor."
+      ]
+    },
+    {
+      "company": "SIA Lofbergs Baltic",
+      "period": "May 2022 - Apr 2025",
+      "title": "Supply Chain Manager | Customer Service and Logistics Team Lead",
+      "keywords": ["supply chain", "Baltic operations", "commercial analytics", "ERP", "EDI", "team leadership", "logistics"],
+      "achievements": [
+        "Analysed sales, customer demand, inventory, product availability, delivery performance and logistics costs across Baltic markets, producing management reports and forecasts for approximately 100 SKUs.",
+        "Coordinated supply and production requirements of around four tonnes per day, including 21 green-coffee components, while monitoring service, stock and operational risks.",
+        "Contributed to IFS ERP, EDISOFT and TELEMA EDI improvements through requirements clarification, data mapping, master-data validation, transaction testing, issue investigation and user acceptance.",
+        "Led a three-person customer service and logistics team and collaborated with Sales, Finance, Production, Warehouse, IT, Swedish headquarters, major Baltic retailers and external partners.",
+        "Improved reporting visibility, coordination and operational execution during a commercial period associated with approximately 6% sales growth."
+      ]
+    },
+    {
+      "company": "SIA Himalaya Wellness Latvia",
+      "period": "Jun 2020 - May 2022",
+      "title": "Demand Planner and Operations Analyst",
+      "keywords": ["SAP", "S&OP", "demand planning", "European markets", "forecast analysis"],
+      "achievements": [
+        "Analysed demand forecasts, actual sales, inventory and product availability across European markets, identifying deviations, supply constraints and customer-service risks.",
+        "Maintained and validated SAP customer and product master data and coordinated corrections with Sales, Operations, production teams in India and Dubai and external logistics partners.",
+        "Supported S&OP, data migration and reporting improvements by consolidating information from multiple sources and translating results into practical planning actions."
+      ]
+    },
+    {
+      "company": "Freelance Power BI and Data Analyst",
+      "period": "2025 - Present",
+      "title": "Independent Analytics Projects",
+      "keywords": ["Power BI", "DAX", "freelance", "consulting", "dashboards"],
+      "achievements": [
+        "Define business requirements, KPIs, data sources and calculation logic; build Power BI data models, DAX measures and decision-oriented dashboards and validate outputs against source data.",
+        "Delivered salary-market analytics for ERDA and finance, receivables, workforce-capacity and project-utilisation reporting for Buvdizains, using Power BI and repeatable data-preparation workflows."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "RISEBA University of Applied Sciences",
+      "period": "Sep 2025 - Present",
+      "degree": "Master's studies in Big Data Analytics",
+      "details": "Top results: Power BI and Power Pivot, Business Requirements and Python (10/10); Machine Learning with Python, SPSS, R and Multivariate Statistics (9/10). Additional studies include SQL, forecasting and Generative AI."
+    },
+    {
+      "institution": "RISEBA University of Applied Sciences",
+      "period": "Sep 2020 - Jan 2025",
+      "degree": "Bachelor's Degree in Business Management; E-Business Manager qualification"
+    }
+  ],
+  "skills": {
+    "bi_and_data": ["Power BI", "DAX", "Power Query", "SQL", "PostgreSQL", "Python", "pandas", "R", "KNIME", "advanced Excel", "Power Pivot", "PivotTables", "XLOOKUP", "INDEX/MATCH"],
+    "methods": ["KPI design", "data modelling", "variance and trend analysis", "forecasting", "data reconciliation", "anomaly investigation", "root-cause analysis", "UAT", "process documentation"],
+    "systems": ["HORIZON", "MEMO", "IFS ERP", "SAP", "EDISOFT", "TELEMA", "Snowflake (familiar)", "ClickHouse (familiar)"],
+    "certifications": ["Certified Internal ISO Auditor"]
+  },
+  "languages": {
+    "Russian": "native",
+    "Latvian": "fluent / business proficiency",
+    "English": "professional working proficiency"
+  }
+}
